@@ -58,7 +58,7 @@ def run():
 
 if __name__ == '__main__':
     run()
-    #playsound('sound.mp3')
+    playsound('sound.mp3')
 #pag.click(185, 934, duration=0.1)
 #pag.click(618, 934, duration=0.1)
 #pag.click(185, 934, duration=0.1)
